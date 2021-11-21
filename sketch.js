@@ -1,7 +1,7 @@
 let nodes = []
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    for (let i=0; i < 100; i++) {
+    for (let i=0; i < 200; i++) {
     let x = random(0, width)
     let y = random(0, height)
     nodes.push(new Node(x, y, i + 1))

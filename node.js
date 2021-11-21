@@ -18,7 +18,7 @@ class Node {
     
     findNeighbors(nodes) {
       let neighbors = []
-      let maxDist = 60
+      let maxDist = 100
       for (let n of nodes) {
         let dist = maxDist**2 - ((this.pos.x - n.getX())**2 + (this.pos.y - n.getY())**2)
   
