@@ -1,0 +1,55 @@
+# Konstantinos Papaioannou
+
+> I am a final-year Computer Science Ph.D. student at IMDEA Software Institute, advised by Thaleia Dimitra Doudali, working on Systems for Machine Learning. My research focuses on making inference serving efficient for multimodal LLMs and other foundation models, through request scheduling, KV cache management, and pipeline-aware serving. Previously, I received my Diploma in Electrical and Computer Engineering from the National Technical University of Athens. During my last year, I completed my Diploma thesis on "Optimizing ML Workflows by Integrating a Feature Store into Kubeflow", supervised by Nectarios Koziris and Vangelis Koukis. I am looking for industry research and engineering roles starting in October 2027.
+
+Generated from https://kon-pap.github.io/ on 2026-10-23.
+
+## Profiles
+
+- [Homepage](https://kon-pap.github.io/)
+- [Resume (PDF)](https://kon-pap.github.io/docs/Resume.pdf)
+- [Email](mailto:konstantinos.papaioannou@imdea.org)
+- [GitHub](https://github.com/kon-pap)
+- [Twitter / X](https://twitter.com/kon_papaioannou)
+- [LinkedIn](https://www.linkedin.com/in/konstantinos-papaioannou-81145b161/)
+- [ORCID](https://orcid.org/0009-0003-0573-3254)
+- [Google Scholar](https://scholar.google.com/citations?user=jhgE8KYAAAAJ)
+- [DBLP](https://dblp.org/pid/185/0096-2.html)
+
+## Research topics
+
+- ML Inference Serving Systems
+- Multimodal Inference Scheduling and KV Cache Management
+- Pipeline-Aware Serving for Any-to-Any Models
+
+## Education
+
+- PhD in CS, IMDEA Software Institute (Oct 2022 - Sept 2027 (exp.))
+- MEng in ECE, National Technical University of Athens (2017 - 2022)
+
+## Experience
+
+- Research Intern @ IBM (Jun 2026 - Sept 2026): Worked with the Next Generation Systems team on serving geospatial foundation models at scale, using vLLM and llm-d.
+- Thesis Intern @ Arrikto (Oct 2021 - Sept 2022): Transformed Feast, an open-source feature store, into a cloud-native client-server system integrated with Kubeflow on Kubernetes.
+
+## Publications
+
+- [Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://doi.org/10.1145/3828523.3857088). Konstantinos Papaioannou, Thaleia Dimitra Doudali. 2026 SIGOPS Annual Technical Conference (ATC ’26), 2026. [arXiv Preprint](https://arxiv.org/abs/2603.26498), [Source Code](https://github.com/muse-research-lab/rps-serve) ACM badges: Artifacts Available, Artifacts Evaluated - Functional, Results Reproduced.
+- [CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-Tenant LLM Serving Systems](https://doi.org/10.1145/3801927.3858638). Panagiotis Georgios Pennas, Konstantinos Papaioannou, Marco Guarnieri, Thaleia Dimitra Doudali. 76th International Middleware Conference (Middleware ’26), 2026. [arXiv Preprint](https://arxiv.org/abs/2603.10726), [Source Code](https://github.com/muse-research-lab/CacheSolidarity)
+- [Dealing with the Elephant in the KV Cache: Video Frame Sampling for Multimodal LLM Inference](https://doi.org/10.1145/3805621.3807613). Konstantinos Papaioannou, Thaleia Dimitra Doudali. 6th Workshop on Machine Learning and Systems (EuroMLSys ’26) (with 2026 European Conference on Computer Systems EuroSys ’26), 2026. [Presentation](https://kon-pap.github.io/docs/2026_EuroMLSys_Presentation.pdf)
+- [The Importance of Workload Choice in Evaluating LLM Inference Systems](https://doi.org/10.1145/3642970.3655823). Konstantinos Papaioannou, Thaleia Dimitra Doudali. 4th Workshop on Machine Learning and Systems (EuroMLSys ’24) (with 2024 European Conference on Computer Systems EuroSys ’24), 2024. [Poster](https://kon-pap.github.io/docs/2024_EuroMLSys_Poster.pdf), [Presentation](https://kon-pap.github.io/docs/2024_EuroMLSys_Presentation.pdf), [Source Code](https://github.com/muse-research-lab/llm-inference-workload-eval)
+- [Is Machine Learning Necessary for Cloud Resource Usage Forecasting?](https://doi.org/10.1145/3620678.3624790). Georgia Christofidi, Konstantinos Papaioannou, Thaleia Dimitra Doudali. 14th Symposium of Cloud Computing (SoCC ’23), 2023. [Poster](https://kon-pap.github.io/docs/2023_SoCC_Poster.pdf), [Source Code](https://github.com/muse-research-lab/cloud-forecast-data-persistence)
+- [Toward Pattern-based Model Selection for Cloud Resource Forecasting](https://doi.org/10.1145/3578356.3592588). Georgia Christofidi, Konstantinos Papaioannou, Thaleia Dimitra Doudali. 3rd Workshop on Machine Learning and Systems (EuroMLSys ’23) (with 2023 European Conference on Computer Systems EuroSys ’23), 2023. [Poster](https://kon-pap.github.io/docs/2023_EuroMLSys_Poster.pdf), [Video Presentation](https://www.youtube.com/watch?v=2pwflH52L54), [Source Code](https://github.com/orgs/muse-research-lab/repositories?q=cloud-forecast-lstm+OR+cloud-traces-comparison+in%3Aname)
+
+## Service
+
+- CAIS 2026: Artifact Evaluation Committee (AEC)
+- EuroSys 2026: Shadow Program Committee (Shadow PC); Artifact Evaluation Committee (AEC)
+- EuroSys 2025: Shadow Program Committee (Shadow PC)
+- ATC 2024: Artifact Evaluation Committee (AEC)
+- OSDI 2024: Artifact Evaluation Committee (AEC)
+- ASPLOS 2024: Artifact Evaluation Committee (AEC)
+- EuroSys 2024: Artifact Evaluation Committee (AEC); Distinguished Artifact Evaluator Award
+- SOSP 2023: Artifact Evaluation Committee (AEC)
+- MLSys 2023: Artifact Evaluation Committee (AEC)
+- EuroSys 2023: Artifact Evaluation Committee (AEC); Distinguished Artifact Evaluator Award

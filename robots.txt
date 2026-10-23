@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
+# All crawlers, including search engines and AI agents, are welcome.
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://kon-pap.github.io/sitemap.xml
