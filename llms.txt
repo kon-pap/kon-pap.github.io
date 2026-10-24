@@ -2,7 +2,7 @@
 
 > I am a final-year Computer Science Ph.D. student at IMDEA Software Institute, advised by Thaleia Dimitra Doudali, working on Systems for Machine Learning. My research focuses on making inference serving efficient for multimodal LLMs and other foundation models, through request scheduling, KV cache management, and pipeline-aware serving. Previously, I received my Diploma in Electrical and Computer Engineering from the National Technical University of Athens. During my last year, I completed my Diploma thesis on "Optimizing ML Workflows by Integrating a Feature Store into Kubeflow", supervised by Nectarios Koziris and Vangelis Koukis. I am looking for industry research and engineering roles starting in October 2027.
 
-Generated from https://kon-pap.github.io/ on 2026-10-23.
+Generated from https://kon-pap.github.io/ on 2026-10-24.
 
 ## Profiles
 
