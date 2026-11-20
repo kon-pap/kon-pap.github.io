@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://kon-pap.github.io/</loc><lastmod>2026-10-24</lastmod></url>
-  <url><loc>https://kon-pap.github.io/llms.txt</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://kon-pap.github.io/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kon-pap.github.io/llms.txt</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://kon-pap.github.io/docs/2023_EuroMLSys_Poster.pdf</loc></url>
   <url><loc>https://kon-pap.github.io/docs/2023_SoCC_Poster.pdf</loc></url>
   <url><loc>https://kon-pap.github.io/docs/2024_EuroMLSys_Poster.pdf</loc></url>
   <url><loc>https://kon-pap.github.io/docs/2024_EuroMLSys_Presentation.pdf</loc></url>
+  <url><loc>https://kon-pap.github.io/docs/2026_ATC_Poster.pdf</loc></url>
+  <url><loc>https://kon-pap.github.io/docs/2026_ATC_Presentation.pdf</loc></url>
   <url><loc>https://kon-pap.github.io/docs/2026_EuroMLSys_Presentation.pdf</loc></url>
   <url><loc>https://kon-pap.github.io/docs/Resume.pdf</loc></url>
 </urlset>
